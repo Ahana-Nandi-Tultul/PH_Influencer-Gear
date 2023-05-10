@@ -280,6 +280,9 @@ body{
         media quaries 
 -------------------------------*/
 @media screen and (max-width: 687px) {
+    .header{
+        flex-direction: column;
+    }
     .front-bottom-section,
     .featured-product-section{
         flex-direction: column-reverse;
