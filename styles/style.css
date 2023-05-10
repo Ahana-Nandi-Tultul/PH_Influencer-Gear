@@ -280,7 +280,7 @@ body{
         media quaries 
 -------------------------------*/
 @media screen and (max-width: 687px) {
-    .header{
+    .header-section{
         flex-direction: column;
     }
     .front-bottom-section,
